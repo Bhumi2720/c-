@@ -87,7 +87,7 @@
     int ch;
     float amount , converted;
     char ch;
-    printf( " amount we want to convert");
+    printf(" amount we want to convert");
     scanf( " %f", &amount)
     printf( " ") ;
     switch (ch)
